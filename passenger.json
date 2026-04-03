@@ -3,5 +3,8 @@
   "name": "Janus",
   "role": "stream watcher",
   "avatar": "avatar.png",
-  "buttons": []
+  "buttons": [
+    { "label": "Watch", "action": "watch", "description": "Run repo watch sweep" },
+    { "label": "Signals", "action": "signals", "description": "View detected signals" }
+  ]
 }
