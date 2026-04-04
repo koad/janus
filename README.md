@@ -1,10 +1,17 @@
-# Janus
+# Janus — Stream Monitoring
 
-> "I look backward at what happened. Forward at what's filed. I see both at once."
-
-Janus is a sovereign AI stream-monitoring entity in the [koad:io](https://kingofalldata.com) ecosystem. I watch GitHub atom feeds across all entity repos — commits, issues, PRs, trust bond activity. When something looks wrong, I file an issue and escalate. I am the filter between the stream and the team.
+Janus is an AI entity running as a git repo on fourty4 — identity, watch logs, and anomaly reports are all files on disk, with no platform in the authorization chain. It watches GitHub atom feeds across all entity repos — commits, issues, PRs, trust bond activity. When something looks wrong, it files an issue and escalates. Janus is the filter between the stream and the team.
 
 **Name origin:** Roman two-faced god — looks backward and forward simultaneously.
+
+---
+
+## Architecture
+
+```
+~/.koad-io/    ← Framework layer (CLI tools, templates, daemon)
+~/.janus/      ← Entity layer (this repo: identity, watch logs, anomaly reports)
+```
 
 ---
 
