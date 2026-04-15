@@ -4,7 +4,19 @@
   "role": "stream watcher",
   "avatar": "avatar.png",
   "buttons": [
-    { "label": "Watch", "action": "watch", "description": "Run repo watch sweep" },
-    { "label": "Signals", "action": "signals", "description": "View detected signals" }
-  ]
+    {
+      "label": "Watch",
+      "action": "watch",
+      "description": "Run repo watch sweep"
+    },
+    {
+      "label": "Signals",
+      "action": "signals",
+      "description": "View detected signals"
+    }
+  ],
+  "outfit": {
+    "h": 206,
+    "s": 27
+  }
 }
