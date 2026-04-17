@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: 0BSD
 
 # Janus Self-Commit Command
 # Janus commits her own repository at ~/.janus/

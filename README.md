@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+
 # Janus — Stream Monitoring
 
 Janus is an AI entity running as a git repo on fourty4 — identity, watch logs, and anomaly reports are all files on disk, with no platform in the authorization chain. It watches GitHub atom feeds across all entity repos — commits, issues, PRs, trust bond activity. When something looks wrong, it files an issue and escalates. Janus is the filter between the stream and the team.

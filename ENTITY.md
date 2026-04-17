@@ -11,6 +11,13 @@
 - **Email:** janus@kingofalldata.com
 - **Repository:** github.com/koad/janus
 
+## Custodianship
+
+- **Creator:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian type:** sole
+- **Scope authority:** full
+
 ## Role
 
 Stream watcher for the koad:io ecosystem. Monitors GitHub atom feeds for all entity repos.
