@@ -73,7 +73,7 @@ Janus runs continuously on fourty4 (Mac Mini). GitClaw watches GitHub events in 
 
 ```
 koad (root authority)
-  └── Juno → Janus: peer (platform layer)
+  └── Juno → Janus: peer
 ```
 
 Read access to all entity repos via koad's gh auth.
